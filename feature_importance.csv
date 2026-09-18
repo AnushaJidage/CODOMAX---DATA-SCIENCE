@@ -1,0 +1,9 @@
+Feature,Importance
+failures,0.24
+absences,0.2
+studytime,0.16
+age,0.12
+higher_yes,0.1
+schoolsup_yes,0.07
+famsup_yes,0.06
+internet_yes,0.05
